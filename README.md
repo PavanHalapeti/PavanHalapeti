@@ -97,8 +97,7 @@ I'm particularly interested in understanding how technology works behind the sce
 
 - [AURIX CLUB](https://github.com/pavanhalapeti1613-tech/aurix-club) – Club website and recruitment portal.
 - [RK Designs](https://rk-design.vercel.app/) – Creative design portfolio and business website.
-
----
+- [Circuit rush Quiz website](https://circuit-rush-ieee.vercel.app/) – Online Quiz Website for Circuit Rush College Event.
 
 ## 🌍 Open Source Contributions
 
